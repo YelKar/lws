@@ -1,0 +1,5 @@
+PROGRAM Polindrome(INPUT, OUTPUT);
+BEGIN
+  WRITE('MADAM, ');
+  WRITELN('I''M ADAM')
+END.

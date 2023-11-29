@@ -1,0 +1,4 @@
+BEGIN
+  READ(Ch2, Ch);;;;;;;;;
+  WRITE(Ch, Ch2);;;
+END.

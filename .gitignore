@@ -1,0 +1,9 @@
+*.exe
+*.bak
+*.o
+*.err
+*.out
+*.cfg
+*.ini
+*.dsk
+*.dir

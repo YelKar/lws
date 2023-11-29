@@ -1,0 +1,4 @@
+BEGIN
+  READ(Ch);
+  WRITE(Ch, BEGIN1, END1)
+END.

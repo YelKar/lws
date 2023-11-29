@@ -1,0 +1,6 @@
+PROGRAM FormatPascal(INPUT, OUTPUT);
+VAR
+  Ch1, Ch2: CHAR;
+BEGIN
+
+END.

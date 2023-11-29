@@ -1,0 +1,12 @@
+PROGRAM FormatBlock(INPUT, OUTPUT);
+VAR
+  Ch1, Ch2: CHAR;
+
+PROCEDURE ReadBegin;
+BEGIN
+
+END;
+
+BEGIN
+
+END.

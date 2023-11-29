@@ -1,0 +1,6 @@
+BEGIN
+  READ(Ch);
+  WRITE(Ch, 'Hello;;;;;;;;;');
+  READ(Ch);
+  WRITELN('CORRECT')
+END.
