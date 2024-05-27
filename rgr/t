@@ -1,9 +1,0 @@
-PROGRAM Test(INPUT, OUTPUT);
-USES
-  Words;
-VAR
-  W: WordType;
-BEGIN
-  ReadWord(W, INPUT);
-  WRITELN(W)
-END.
